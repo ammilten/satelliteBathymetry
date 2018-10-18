@@ -1,0 +1,4 @@
+sudo apt install python3-tk ffmpeg gdal-bin python3-gdal
+
+
+pip3 install numpy matplotlib scipy scikit-learn pillow shapely utm
